@@ -44,3 +44,5 @@ docker ps
 
 
 🧹 Destroy Infrastructure
+ terraform destroy
+ 
